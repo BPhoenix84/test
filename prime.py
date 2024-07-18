@@ -1,6 +1,6 @@
 def prime(n):
     if n == 1:
-        return True
+        return False
     if n == 2:
         return True
     else:
