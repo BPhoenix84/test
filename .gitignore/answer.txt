@@ -1,3 +1,0 @@
-to see changes made to a file we can use 'git diff file/path/name':
-	ex : git diff prime.txt
-too see repository changes we can use 'git diff' or check the history with git log
